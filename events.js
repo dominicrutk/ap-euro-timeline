@@ -298,7 +298,7 @@ const events = {
         startYear: 1649,
         endYear: 1660,
         latitude: 51.4995,
-        longitude: 0.1248,
+        longitude: -0.1248,
         category: 'political-diplomatic sovereignty',
         description: [
 
@@ -359,7 +359,7 @@ const events = {
 
         ]
     },
-    declarationOfTheRightOfManAndCitizen: {
+    declarationOfTheRightsOfManAndCitizen: {
         name: 'Declaration of the Rights of Man and Citizen',
         startYear: 1789,
         endYear: 1789,
@@ -399,6 +399,259 @@ const events = {
         latitude: 47.4979,
         longitude: 19.0402,
         category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    greatPeasantsRevolt: {
+        name: 'Great Peasants\' Revolt',
+        startYear: 1524,
+        endYear: 1525,
+        latitude: 51.5742,
+        longitude: 0.4857,
+        category: 'economic-social',
+        description: [
+
+        ]
+    },
+    frenchRevolution: {
+        name: 'French Revolution',
+        startYear: 1789,
+        endYear: 1799,
+        latitude: 48.8520,
+        longitude: 2.3677,
+        category: 'economic-social',
+        description: [
+
+        ]
+    },
+    treatyOfVersailles: {
+        name: 'Treaty of Versailles',
+        startYear: 1918,
+        endYear: 1918,
+        latitude: 48.801407,
+        longitude: 2.130122,
+        category: 'economic-social',
+        description: [
+
+        ]
+    },
+    germanHyperinflation: {
+        name: 'German Hyperinflation',
+        startYear: 1921,
+        endYear: 1923,
+        latitude: 50.10916623,
+        longitude: 8.67333064,
+        category: 'economic-social',
+        description: [
+
+        ]
+    },
+    holocaust: {
+        name: 'Holocaust',
+        startYear: 1933,
+        endYear: 1945,
+        latitude: 50.0274,
+        longitude: 19.2020,
+        category: 'economic-social',
+        description: [
+
+        ]
+    },
+    decolonization: {
+        name: 'Decolonization',
+        startYear: 1945,
+        endYear: 1960,
+        latitude: 28.6139,
+        longitude: 77.2090,
+        category: 'economic-social',
+        description: [
+
+        ]
+    },
+    columbusDiscoversAmerica: {
+        name: 'Columbus Discovers America',
+        startYear: 1492,
+        endYear: 1492,
+        latitude: 22.707657,
+        longitude: -73.895284,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    transatlanticSlaveTrade: {
+        name: 'Transatlantic Slave Trade',
+        startYear: 1526,
+        endYear: 1814,
+        latitude: 13.441243,
+        longitude: -16.719776,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    dutchGoldenAge: {
+        name: 'Dutch Golden Age',
+        startYear: 1600,
+        endYear: 1750,
+        latitude: 52.3680,
+        longitude: 4.9036,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    agriculturalRevolution: {
+        name: 'Agricultural Revolution',
+        startYear: 1700,
+        endYear: 1850,
+        latitude: 51.491280,
+        longitude: 5.861834,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    treatyOfUtrecht: {
+        name: 'Treaty of Utrecht',
+        startYear: 1713,
+        endYear: 1713,
+        latitude: 52.103333,
+        longitude: 5.179167,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    enclosure: {
+        name: 'Enclosure',
+        startYear: 1760,
+        endYear: 1832,
+        latitude: 54.4667,
+        longitude: 3.2833,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    steamEngine: {
+        name: 'Invention of the Steam Engine',
+        startYear: 1769,
+        endYear: 1769,
+        latitude: 55.871944,
+        longitude: -4.2875,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    wealthOfNations: {
+        name: 'Wealth of Nations',
+        startYear: 1776,
+        endYear: 1776,
+        latitude: 43.6047,
+        longitude: 1.4442,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    communistManifesto: {
+        name: 'Communist Manifesto',
+        startYear: 1848,
+        endYear: 1848,
+        latitude: 49.7500,
+        longitude: 6.6371,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    abolitionOfRussianSerfdom: {
+        name: 'Abolition of Russian Serfdom',
+        startYear: 1861,
+        endYear: 1861,
+        latitude: 59.9343,
+        longitude: 30.3351,
+        category: 'economic-social economic-systems',
+        description: [
+
+        ]
+    },
+    womenBeginToRead: {
+        name: 'Women Begin to Read',
+        startYear: 1517,
+        endYear: 1648,
+        latitude: 50.9663,
+        longitude: 10.3063,
+        category: 'economic-social gender',
+        description: [
+
+        ]
+    },
+    observationsUponExperimentalPhilosophy: {
+        name: 'Observations Upon Experimental Philosophy',
+        startYear: 1666,
+        endYear: 1666,
+        latitude: 54.966667,
+        longitude: -1.6,
+        category: 'economic-social gender',
+        description: [
+
+        ]
+    },
+    principiaIntoFrench: {
+        name: 'Émilie du Châtelet Translates Principia into French',
+        startYear: 1749,
+        endYear: 1749,
+        latitude: 48.8566,
+        longitude: 2.3522,
+        category: 'economic-social gender',
+        description: [
+
+        ]
+    },
+    declarationOfTheRightsOfWoman: {
+        name: 'Declaration of the Rights of Woman',
+        startYear: 1791,
+        endYear: 1791,
+        latitude: 48.847164,
+        longitude: 2.267934,
+        category: 'economic-social gender',
+        description: [
+
+        ]
+    },
+    womenEnterTheWorkforce: {
+        name: 'Women Enter the Workforce',
+        startYear: 1820,
+        endYear: 1829,
+        latitude: 55.66,
+        longitude: -3.78,
+        category: 'economic-social gender',
+        description: [
+
+        ]
+    },
+    marriedWomensPropertyAct: {
+        name: 'Married Women\'s Property Act',
+        startYear: 1882,
+        endYear: 1882,
+        latitude: 51.4995,
+        longitude: -0.1246,
+        category: 'economic-social gender',
+        description: [
+
+        ]
+    },
+    equalFranchiseAct: {
+        name: 'Equal Franchise Act',
+        startYear: 1928,
+        endYear: 1928,
+        latitude: 51.4992,
+        longitude: -0.1248,
+        category: 'economic-social gender',
         description: [
 
         ]
