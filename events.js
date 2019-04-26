@@ -1,23 +1,4 @@
 const events = {
-    // columbusLandsInAmerica: {
-    //     name: 'Columbus Discovers America',
-    //     startYear: 1492,
-    //     endYear: 1492,
-    //     latitude: 22.707657,
-    //     longitude: -73.895284,
-    //     category: 'change',
-    //     description: [
-    //         {
-    //             type: 'p',
-    //             text: `On October 12, 1492, Christopher Columbus and his crew aboard the <em>Pinta</em> spotted land. They had discovered San Salvador (the Bahamas), which is part of the New World. This discovery allowed for Spain, and the other European countries shortly thereafter, to exploit indigenous peoples for labor. In addition, American goods could be exported to Europe in the Columbian Exchange. Columbus's discovery of the New World marked a turning point in European history as the wealth of countries quickly swelled from the riches to be found in the Americas.`
-    //         },
-    //         {
-    //             type: 'img',
-    //             image: './img/columbusFleet.jpg',
-    //             caption: `Christopher Columbus's fleet of three ships: <em>La Niña</em>, <em>La Pinta</em>, and <em>Santa María</em>. <a href="https://owlcation.com/humanities/Whatever-Happened-to-the-Nia-Pinta-and-Santa-Maria">Image source</a>`
-    //         }
-    //     ]
-    // }
     spanishArmada: {
         name: 'Spanish Armada',
         startYear: 1588,
@@ -26,7 +7,10 @@ const events = {
         longitude: 1.913333,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     thirtyYearsWar: {
@@ -37,7 +21,10 @@ const events = {
         longitude: 14.40164,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     warOfTheAustrianSuccession: {
@@ -48,7 +35,10 @@ const events = {
         longitude: 6.0839,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     diplomaticRevolution: {
@@ -59,7 +49,10 @@ const events = {
         longitude: 2.1203,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     sevenYearsWar: {
@@ -70,7 +63,10 @@ const events = {
         longitude: 2.3522,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     napoleonicWars: {
@@ -81,7 +77,10 @@ const events = {
         longitude: 4.412,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     congressOfVienna: {
@@ -92,7 +91,10 @@ const events = {
         longitude: 16.3738,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     compromiseOf1867: {
@@ -103,7 +105,10 @@ const events = {
         longitude: 16.3738,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     worldWarI: {
@@ -114,7 +119,10 @@ const events = {
         longitude: 18.4131,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     worldWarII: {
@@ -125,7 +133,10 @@ const events = {
         longitude: 11.12,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     coldWar: {
@@ -136,7 +147,10 @@ const events = {
         longitude: 13.37694,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     septemberEleventh: {
@@ -147,7 +161,10 @@ const events = {
         longitude: -74.013611,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     brexitVote: {
@@ -158,7 +175,10 @@ const events = {
         longitude: -2.571111,
         category: 'political-diplomatic',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     marriageOfIsabellaAndFerdinand: {
@@ -169,7 +189,10 @@ const events = {
         longitude: -4.723611,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     leviathan: {
@@ -180,7 +203,10 @@ const events = {
         longitude: -2.8633,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     gloriousRevolution: {
@@ -191,7 +217,10 @@ const events = {
         longitude: -3.556944,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     constructionOfVersailles: {
@@ -202,7 +231,10 @@ const events = {
         longitude: 2.1204,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     edictOfFontainebleau: {
@@ -213,7 +245,10 @@ const events = {
         longitude: 2.130122,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     enlightenedDespotism: {
@@ -224,7 +259,10 @@ const events = {
         longitude: 13.0385,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     establishmentOfPrussia: {
@@ -235,7 +273,10 @@ const events = {
         longitude: 20.516667,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     warOfTheSpanishSuccession: {
@@ -246,7 +287,10 @@ const events = {
         longitude: 5.116667,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     foundingOfStPetersburg: {
@@ -257,7 +301,10 @@ const events = {
         longitude: 30.308611,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     italianUnification: {
@@ -268,7 +315,10 @@ const events = {
         longitude: 7.6869,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     germanUnification: {
@@ -279,7 +329,10 @@ const events = {
         longitude: 13.404954,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     formationOfTheEuropeanUnion: {
@@ -290,7 +343,10 @@ const events = {
         longitude: 4.3517,
         category: 'political-diplomatic centralization',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     puritanRepublic: {
@@ -301,7 +357,10 @@ const events = {
         longitude: -0.1248,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     twoTreatisesOfGovernment: {
@@ -312,7 +371,10 @@ const events = {
         longitude: 0.2107,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     spiritOfLaws: {
@@ -323,7 +385,10 @@ const events = {
         longitude: 0.5278,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     theSocialContract: {
@@ -334,7 +399,10 @@ const events = {
         longitude: 2.6978,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     americanRevolution: {
@@ -345,7 +413,10 @@ const events = {
         longitude: -75.15,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     formationOfTheNationalAssembly: {
@@ -356,7 +427,10 @@ const events = {
         longitude: 5.0415,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     declarationOfTheRightsOfManAndCitizen: {
@@ -367,7 +441,10 @@ const events = {
         longitude: 2.120999516,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     establishmentOfTheFirstFrenchRepublic: {
@@ -378,7 +455,10 @@ const events = {
         longitude: 2.3212,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     latinAmericanIndependence: {
@@ -389,7 +469,10 @@ const events = {
         longitude: -43.1729,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     revolutionsOf1848: {
@@ -400,7 +483,10 @@ const events = {
         longitude: 19.0402,
         category: 'political-diplomatic sovereignty',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     greatPeasantsRevolt: {
@@ -411,7 +497,10 @@ const events = {
         longitude: 0.4857,
         category: 'economic-social',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     frenchRevolution: {
@@ -422,7 +511,10 @@ const events = {
         longitude: 2.3677,
         category: 'economic-social',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     treatyOfVersailles: {
@@ -433,7 +525,10 @@ const events = {
         longitude: 2.130122,
         category: 'economic-social',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     germanHyperinflation: {
@@ -444,7 +539,10 @@ const events = {
         longitude: 8.67333064,
         category: 'economic-social',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     holocaust: {
@@ -455,7 +553,10 @@ const events = {
         longitude: 19.2020,
         category: 'economic-social',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     decolonization: {
@@ -466,7 +567,10 @@ const events = {
         longitude: 77.2090,
         category: 'economic-social',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     columbusDiscoversAmerica: {
@@ -477,7 +581,10 @@ const events = {
         longitude: -73.895284,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     transatlanticSlaveTrade: {
@@ -488,7 +595,10 @@ const events = {
         longitude: -16.719776,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     dutchGoldenAge: {
@@ -499,7 +609,10 @@ const events = {
         longitude: 4.9036,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     agriculturalRevolution: {
@@ -510,7 +623,10 @@ const events = {
         longitude: 5.861834,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     treatyOfUtrecht: {
@@ -521,7 +637,10 @@ const events = {
         longitude: 5.179167,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     enclosure: {
@@ -532,7 +651,10 @@ const events = {
         longitude: 3.2833,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     steamEngine: {
@@ -543,7 +665,10 @@ const events = {
         longitude: -4.2875,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     wealthOfNations: {
@@ -554,7 +679,10 @@ const events = {
         longitude: 1.4442,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     communistManifesto: {
@@ -565,7 +693,10 @@ const events = {
         longitude: 6.6371,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     abolitionOfRussianSerfdom: {
@@ -576,7 +707,10 @@ const events = {
         longitude: 30.3351,
         category: 'economic-social economic-systems',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     womenBeginToRead: {
@@ -587,7 +721,10 @@ const events = {
         longitude: 10.3063,
         category: 'economic-social gender',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     observationsUponExperimentalPhilosophy: {
@@ -598,7 +735,10 @@ const events = {
         longitude: -1.6,
         category: 'economic-social gender',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     principiaIntoFrench: {
@@ -609,7 +749,10 @@ const events = {
         longitude: 2.3522,
         category: 'economic-social gender',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     declarationOfTheRightsOfWoman: {
@@ -620,7 +763,10 @@ const events = {
         longitude: 2.267934,
         category: 'economic-social gender',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     womenEnterTheWorkforce: {
@@ -631,7 +777,10 @@ const events = {
         longitude: -3.78,
         category: 'economic-social gender',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     marriedWomensPropertyAct: {
@@ -642,7 +791,10 @@ const events = {
         longitude: -0.1246,
         category: 'economic-social gender',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     equalFranchiseAct: {
@@ -653,7 +805,10 @@ const events = {
         longitude: -0.1248,
         category: 'economic-social gender',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     councilOfTrent: {
@@ -664,7 +819,10 @@ const events = {
         longitude: 11.1217,
         category: 'cultural-intellectual',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     baroqueArt: {
@@ -675,7 +833,10 @@ const events = {
         longitude: 12.4534,
         category: 'cultural-intellectual',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     romanticEra: {
@@ -686,7 +847,10 @@ const events = {
         longitude: 2.3334,
         category: 'cultural-intellectual',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     eraOfImpressionism: {
@@ -697,7 +861,10 @@ const events = {
         longitude: 2.3376,
         category: 'cultural-intellectual',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     ninetyFiveTheses: {
@@ -708,7 +875,10 @@ const events = {
         longitude: 12.637778,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     sackOfRome: {
@@ -719,7 +889,10 @@ const events = {
         longitude: 12.4964,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     actOfSupremacy: {
@@ -730,7 +903,10 @@ const events = {
         longitude: -0.1419,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     institutesOfTheChristianReligion: {
@@ -741,7 +917,10 @@ const events = {
         longitude: 6.1432,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     peaceOfAugsburg: {
@@ -752,7 +931,10 @@ const events = {
         longitude: 10.8978,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     edictOfNantes: {
@@ -763,7 +945,10 @@ const events = {
         longitude: -1.5536,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     churchCondemnsGalileo: {
@@ -774,7 +959,10 @@ const events = {
         longitude: 10.4017,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     peaceOfWestphalia: {
@@ -785,7 +973,10 @@ const events = {
         longitude: 7.6261,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     onTheOriginOfSpecies: {
@@ -796,7 +987,10 @@ const events = {
         longitude: -92.003,
         category: 'cultural-intellectual church-decline',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     printingPress: {
@@ -807,7 +1001,10 @@ const events = {
         longitude: 8.2473,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     onTheRevolutionsOfTheHeavenlySpheres: {
@@ -818,7 +1015,10 @@ const events = {
         longitude: 11.083333,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     theAdvancementOfLearning: {
@@ -829,7 +1029,10 @@ const events = {
         longitude: -0.120666184,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     starryMessenger: {
@@ -840,7 +1043,10 @@ const events = {
         longitude: 10.4019,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     discourseOnMethod: {
@@ -851,7 +1057,10 @@ const events = {
         longitude: 0.6987,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     principiaMathematica: {
@@ -862,7 +1071,10 @@ const events = {
         longitude: -0.6305,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     encyclopedia: {
@@ -873,7 +1085,10 @@ const events = {
         longitude: 5.3343,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     theInterpretationOfDreams: {
@@ -884,7 +1099,10 @@ const events = {
         longitude: 18.1450,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     },
     creationOfTheInternet: {
@@ -895,7 +1113,10 @@ const events = {
         longitude: -0.1277,
         category: 'cultural-intellectual innovation',
         description: [
-
+            {
+                type: 'p',
+                text: ``
+            }
         ]
     }
 };
