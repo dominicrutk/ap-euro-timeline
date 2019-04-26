@@ -65,7 +65,7 @@ const goToEvent = function (eventTitle) {
             document.getElementById('back-button').addEventListener('click', () => {
                 goBack(true);
             });
-            map.flyTo([event.latitude, event.longitude], 6);
+            map.flyTo([event.latitude, event.longitude], 8);
             sidebarEventOpen = true;
             break;
         }
@@ -100,7 +100,7 @@ const goBack = function (flyToEurope) {
         <option value="20th" ${filter === '20th' ? 'selected' : ''}>20th Century</option>
         <option value="21st" ${filter === '21st' ? 'selected' : ''}>21st Century</option>
     </select></p>
-    <p>Themes can be found <a href="https://docs.google.com/document/d/1XmG3uO-n-qxAQYAGZHESUo6aX1_EKoxSLX5ZDOhmS7I/edit?usp=sharing" target="_blank">here</a>.</p>`;
+    <p>Timeline themes can be found <a href="https://docs.google.com/document/d/1XmG3uO-n-qxAQYAGZHESUo6aX1_EKoxSLX5ZDOhmS7I/edit?usp=sharing" target="_blank">here</a>.</p>`;
     let tempEventsList = [];
     for (let event of sidebarEvents) {
         if (passesFilter(event)) {
