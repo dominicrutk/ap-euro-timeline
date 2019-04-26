@@ -656,4 +656,246 @@ const events = {
 
         ]
     },
+    councilOfTrent: {
+        name: 'Council of Trent',
+        startYear: 1545,
+        endYear: 1563,
+        latitude: 46.0748,
+        longitude: 11.1217,
+        category: 'cultural-intellectual',
+        description: [
+
+        ]
+    },
+    baroqueArt: {
+        name: 'Baroque Art',
+        startYear: 1600,
+        endYear: 1730,
+        latitude: 41.9029,
+        longitude: 12.4534,
+        category: 'cultural-intellectual',
+        description: [
+
+        ]
+    },
+    romanticEra: {
+        name: 'Romantic Era',
+        startYear: 1800,
+        endYear: 1850,
+        latitude: 48.8809,
+        longitude: 2.3334,
+        category: 'cultural-intellectual',
+        description: [
+
+        ]
+    },
+    eraOfImpressionism: {
+        name: 'Era of Impressionism',
+        startYear: 1870,
+        endYear: 1889,
+        latitude: 48.8606,
+        longitude: 2.3376,
+        category: 'cultural-intellectual',
+        description: [
+
+        ]
+    },
+    ninetyFiveTheses: {
+        name: 'Ninety-five Theses',
+        startYear: 1517,
+        endYear: 1517,
+        latitude: 51.866389,
+        longitude: 12.637778,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    sackOfRome: {
+        name: 'Sack of Rome',
+        startYear: 1527,
+        endYear: 1527,
+        latitude: 41.9028,
+        longitude: 12.4964,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    actOfSupremacy: {
+        name: 'Act of Supremacy',
+        startYear: 1534,
+        endYear: 1534,
+        latitude: 51.5014,
+        longitude: -0.1419,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    institutesOfTheChristianReligion: {
+        name: 'Institutes of the Christian Religion',
+        startYear: 1536,
+        endYear: 1536,
+        latitude: 46.2044,
+        longitude: 6.1432,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    peaceOfAugsburg: {
+        name: 'Institutes of the Christian Religion',
+        startYear: 1555,
+        endYear: 1555,
+        latitude: 48.3705,
+        longitude: 10.8978,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    edictOfNantes: {
+        name: 'Edict of Nantes',
+        startYear: 1598,
+        endYear: 1598,
+        latitude: 47.2184,
+        longitude: -1.5536,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    churchCondemnsGalileo: {
+        name: 'Church Condemns Galileo',
+        startYear: 1633,
+        endYear: 1633,
+        latitude: 43.7228,
+        longitude: 10.4017,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    peaceOfWestphalia: {
+        name: 'Peace of Westphalia',
+        startYear: 1648,
+        endYear: 1648,
+        latitude: 51.9607,
+        longitude: 7.6261,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    onTheOriginOfSpecies: {
+        name: 'On the Origin of Species',
+        startYear: 1859,
+        endYear: 1859,
+        latitude: 1.678,
+        longitude: -92.003,
+        category: 'cultural-intellectual church-decline',
+        description: [
+
+        ]
+    },
+    printingPress: {
+        name: 'Invention of the Printing Press',
+        startYear: 1439,
+        endYear: 1439,
+        latitude: 49.9929,
+        longitude: 8.2473,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    },
+    onTheRevolutionsOfTheHeavenlySpheres: {
+        name: 'On the Revolutions of the Heavenly Spheres',
+        startYear: 1543,
+        endYear: 1543,
+        latitude: 49.45,
+        longitude: 11.083333,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    },
+    theAdvancementOfLearning: {
+        name: 'The Advancement of Learning',
+        startYear: 1605,
+        endYear: 1605,
+        latitude: 51.504831314,
+        longitude: -0.120666184,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    },
+    starryMessenger: {
+        name: 'Starry Messenger',
+        startYear: 1610,
+        endYear: 1610,
+        latitude: 43.7226,
+        longitude: 10.4019,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    },
+    discourseOnMethod: {
+        name: 'Discourse on Method',
+        startYear: 1637,
+        endYear: 1637,
+        latitude: 46.9735,
+        longitude: 0.6987,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    },
+    principiaMathematica: {
+        name: 'Principia Mathematica',
+        startYear: 1687,
+        endYear: 1687,
+        latitude: 52.8092,
+        longitude: -0.6305,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    },
+    encyclopedia: {
+        name: 'The Encyclopedia',
+        startYear: 1751,
+        endYear: 1751,
+        latitude: 47.8668,
+        longitude: 5.3343,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    },
+    theInterpretationOfDreams: {
+        name: 'The Interpretation of Dreams',
+        startYear: 1899,
+        endYear: 1899,
+        latitude: 49.6409,
+        longitude: 18.1450,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    },
+    creationOfTheInternet: {
+        name: 'Creation of the Internet',
+        startYear: 1983,
+        endYear: 1983,
+        latitude: 51.5072,
+        longitude: -0.1277,
+        category: 'cultural-intellectual innovation',
+        description: [
+
+        ]
+    }
 };
