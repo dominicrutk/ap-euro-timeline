@@ -10,20 +10,20 @@ function passesFilter(event) {
         return event.category.includes('political-diplomatic');
     } else if (filter === 'centralization') {
         return event.category.includes('centralization');
-    } else if (filter === 'suffrage') {
-        return event.category.includes('suffrage');
+    } else if (filter === 'sovereignty') {
+        return event.category.includes('sovereignty');
 
     } else if (filter === 'economic-social') {
         return event.category.includes('economic-social');
     } else if (filter === 'economic-systems') {
         return event.category.includes('economic-systems');
-    } else if (filter === 'women') {
-        return event.category.includes('women');
+    } else if (filter === 'gender') {
+        return event.category.includes('gender');
 
     } else if (filter === 'cultural-intellectual') {
         return event.category.includes('cultural-intellectual');
-    } else if (filter === 'secularization') {
-        return event.category.includes('secularization');
+    } else if (filter === 'church-decline') {
+        return event.category.includes('church-decline');
     } else if (filter === 'innovation') {
         return event.category.includes('innovation');
 
@@ -76,19 +76,20 @@ const goToEvent = function (eventTitle) {
 const goBack = function (flyToEurope) {
     sidebarEventOpen = false;
     document.getElementById('event-name').innerHTML = 'Event Selection';
-    let eventsList = `<p>Show these events: <select id="filter">
+    let eventsList = `
+        <p>Show these events: <select id="filter">
         <option value="all" ${filter === 'all' ? 'selected' : ''}>All</option>
         
         <option value="political-diplomatic" ${filter === 'political-diplomatic' ? 'selected' : ''}>Political/Diplomatic</option>
-        <option value="centralization" ${filter === 'centralization' ? 'selected' : ''}>P/D: Centralization</option>
-        <option value="suffrage" ${filter === 'suffrage' ? 'selected' : ''}>P/D: Suffrage</option>
+        <option value="centralization" ${filter === 'centralization' ? 'selected' : ''}>P/D: Centralization of Power</option>
+        <option value="sovereignty" ${filter === 'sovereignty' ? 'selected' : ''}>P/D: Popular Sovereignty</option>
         
         <option value="economic-social" ${filter === 'economic-social' ? 'selected' : ''}>Economic/Social</option>
         <option value="economic-systems" ${filter === 'economic-systems' ? 'selected' : ''}>E/S: Economic Systems</option>
-        <option value="women" ${filter === 'women' ? 'selected' : ''}>E/S: Women</option>
+        <option value="gender" ${filter === 'gender' ? 'selected' : ''}>E/S: Gender Inequality</option>
         
         <option value="cultural-intellectual" ${filter === 'cultural-intellectual' ? 'selected' : ''}>Cultural/Intellectual</option>
-        <option value="secularization" ${filter === 'secularization' ? 'selected' : ''}>C/I: Secularization</option>
+        <option value="church-decline" ${filter === 'church-decline' ? 'selected' : ''}>C/I: Decline of the Church</option>
         <option value="innovation" ${filter === 'innovation' ? 'selected' : ''}>C/I: Innovation</option>
         
         <option value="15th" ${filter === '15th' ? 'selected' : ''}>15th Century</option>
@@ -98,7 +99,8 @@ const goBack = function (flyToEurope) {
         <option value="19th" ${filter === '19th' ? 'selected' : ''}>19th Century</option>
         <option value="20th" ${filter === '20th' ? 'selected' : ''}>20th Century</option>
         <option value="21st" ${filter === '21st' ? 'selected' : ''}>21st Century</option>
-    </select></p>`;
+    </select></p>
+    <p>Themes can be found <a href="https://docs.google.com/document/d/1XmG3uO-n-qxAQYAGZHESUo6aX1_EKoxSLX5ZDOhmS7I/edit?usp=sharing" target="_blank">here</a>.</p>`;
     let tempEventsList = [];
     for (let event of sidebarEvents) {
         if (passesFilter(event)) {
