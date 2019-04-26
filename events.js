@@ -161,4 +161,246 @@ const events = {
 
         ]
     },
+    marriageOfIsabellaAndFerdinand: {
+        name: 'Marriage of Isabella and Ferdinand',
+        startYear: 1469,
+        endYear: 1469,
+        latitude: 41.652778,
+        longitude: -4.723611,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    leviathan: {
+        name: 'Leviathan',
+        startYear: 1651,
+        endYear: 1651,
+        latitude: 50.9897,
+        longitude: -2.8633,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    gloriousRevolution: {
+        name: 'Glorious Revolution',
+        startYear: 1688,
+        endYear: 1689,
+        latitude: 50.452222,
+        longitude: -3.556944,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    constructionOfVersailles: {
+        name: 'Construction of Versailles',
+        startYear: 1676,
+        endYear: 1708,
+        latitude: 48.8049,
+        longitude: 2.1204,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    edictOfFontainebleau: {
+        name: 'Edict of Fontainebleau',
+        startYear: 1685,
+        endYear: 1685,
+        latitude: 48.801407,
+        longitude: 2.130122,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    enlightenedDespotism: {
+        name: 'Enlightened Despotism',
+        startYear: 1689,
+        endYear: 1815,
+        latitude: 52.4042,
+        longitude: 13.0385,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    establishmentOfPrussia: {
+        name: 'Establishment of Prussia',
+        startYear: 1701,
+        endYear: 1701,
+        latitude: 54.716667,
+        longitude: 20.516667,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    warOfTheSpanishSuccession: {
+        name: 'War of the Spanish Succession',
+        startYear: 1701,
+        endYear: 1714,
+        latitude: 52.083333,
+        longitude: 5.116667,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    foundingOfStPetersburg: {
+        name: 'Founding of St. Petersburg',
+        startYear: 1703,
+        endYear: 1703,
+        latitude: 59.9375,
+        longitude: 30.308611,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    italianUnification: {
+        name: 'Italian Unification',
+        startYear: 1815,
+        endYear: 1870,
+        latitude: 45.0703,
+        longitude: 7.6869,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    germanUnification: {
+        name: 'German Unification',
+        startYear: 1862,
+        endYear: 1871,
+        latitude: 52.520008,
+        longitude: 13.404954,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    formationOfTheEuropeanUnion: {
+        name: 'Formation of the European Union',
+        startYear: 1993,
+        endYear: 1993,
+        latitude: 50.8503,
+        longitude: 4.3517,
+        category: 'political-diplomatic centralization',
+        description: [
+
+        ]
+    },
+    puritanRepublic: {
+        name: 'Puritan Republic',
+        startYear: 1649,
+        endYear: 1660,
+        latitude: 51.4995,
+        longitude: 0.1248,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    twoTreatisesOfGovernment: {
+        name: 'Two Treatises of Government',
+        startYear: 1690,
+        endYear: 1690,
+        latitude: 51.7565,
+        longitude: 0.2107,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    spiritOfLaws: {
+        name: 'Spirit of Laws',
+        startYear: 1748,
+        endYear: 1748,
+        latitude: 44.6815,
+        longitude: 0.5278,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    theSocialContract: {
+        name: 'The Social Contract',
+        startYear: 1762,
+        endYear: 1762,
+        latitude: 49.1277,
+        longitude: 2.6978,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    americanRevolution: {
+        name: 'American Revolution',
+        startYear: 1765,
+        endYear: 1783,
+        latitude: 39.948889,
+        longitude: -75.15,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    formationOfTheNationalAssembly: {
+        name: 'Formation of the National Assembly',
+        startYear: 1789,
+        endYear: 1789,
+        latitude: 47.3184,
+        longitude: 5.0415,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    declarationOfTheRightOfManAndCitizen: {
+        name: 'Declaration of the Rights of Man and Citizen',
+        startYear: 1789,
+        endYear: 1789,
+        latitude: 48.8006034642,
+        longitude: 2.120999516,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    establishmentOfTheFirstFrenchRepublic: {
+        name: 'Establishment of the First French Republic',
+        startYear: 1789,
+        endYear: 1789,
+        latitude: 48.8656,
+        longitude: 2.3212,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    latinAmericanIndependence: {
+        name: 'Latin American Independence',
+        startYear: 1804,
+        endYear: 1824,
+        latitude: -22.9068,
+        longitude: -43.1729,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
+    revolutionsOf1848: {
+        name: 'Revolutions of 1848',
+        startYear: 1848,
+        endYear: 1848,
+        latitude: 47.4979,
+        longitude: 19.0402,
+        category: 'political-diplomatic sovereignty',
+        description: [
+
+        ]
+    },
 };
