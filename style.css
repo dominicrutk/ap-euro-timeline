@@ -74,6 +74,8 @@ body > div {
 
 #event-description > button.event-list-item {
     background-color: #bababa;
+    border: none;
+    border-radius: 4px;
     display: block;
     font-size: 22px;
     padding: 8px 10px;
