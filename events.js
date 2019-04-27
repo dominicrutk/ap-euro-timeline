@@ -423,8 +423,8 @@ const events = {
         name: 'Formation of the National Assembly',
         startYear: 1789,
         endYear: 1789,
-        latitude: 47.3184,
-        longitude: 5.0415,
+        latitude: 48.852,
+        longitude: 2.3615,
         category: 'political-diplomatic sovereignty',
         description: [
             {
