@@ -9,7 +9,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Spain sends 130 ships to invade England and restore Catholic rule. England defeats the invasion, sinking over one third of the Spanish fleet and ending Spain's status as the chief European power.`
             }
         ]
     },
@@ -23,7 +23,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `A religious conflict between Catholic and Protestant powers devolves into a continental war that ravages the German countryside. The resulting Peace of Westphalia gives Calvinists basic legal protections that they lacked under the Peace of Augsburg.`
             }
         ]
     },
@@ -37,7 +37,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `France and Prussia attempt to challenge Maria Theresa's claim to the Holy Roman Emperor's throne and invade. The war ends near a stalemate, but leads to the Seven Years' War shortly thereafter.`
             }
         ]
     },
@@ -51,7 +51,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The alliance between the great powers of Europe realigns from Britain and Austria versus France and Prussia to Britain and Prussia versus France and Austria. The new alliances fight in the Seven Years' War.`
             }
         ]
     },
@@ -65,7 +65,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The new alliances created during the Diplomatic Revolution fight in a global war. France loses much of its territory in the New World to Britain, but Britain is left in tremendous debt, which ultimately leads to the American Revolution.`
             }
         ]
     },
@@ -79,7 +79,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Napoleon conquers much of Europe, spreading his Enlightened ideals like the Napoleonic code all over the continent. He is defeated by a coalition of other great powers at the Battle of Waterloo. Europe seeks to avoid revolutions and maintain the balance of power to prevent it from ever happening again.`
             }
         ]
     },
@@ -93,7 +93,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Led by Austrian diplomat Kemlens von Metternich, the European powers band together to try to avoid another revolution that leads to dictatorship and conquest. The resulting Concert of Europe prevents revolutions through 1848, when nationalism begins to surge in Europe.`
             }
         ]
     },
@@ -107,7 +107,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Austrian Empire is divided into two countries: the Austrian Empire and the Kingdom of Hungary. Although each country has its own monarchy, Franz Joseph I is the ruler of both states, so they are essentially still unified. `
             }
         ]
     },
@@ -121,7 +121,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The "Great War" is caused by a variety of factors including militarism, alliances, imperialism, and nationalism. Germany and the other Central Powers lose the war. The Ottoman and Austrian empires collapse and Germany is significantly weakened, fundamentally altering the balance of power in Europe. Germany is also handed an economic crisis that leads to World War II.`
             }
         ]
     },
@@ -135,7 +135,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Adolf Hitler leads Germany on a conquest of continental Europe. Consisting of a German alliance with Italy and Japan, the Axis Powers ravage much of the world in the deadliest war in human history. They are defeated by an alliance of the Soviet Union, Great Britain, and the United States. The resulting division of Germany begins the Cold War.`
             }
         ]
     },
@@ -149,7 +149,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Western Powers led by the United States indirectly combat the Eastern Powers led by the Soviet Union. The war represents a conflict of democracy and capitalism versus communism. The collapse of the Soviet Union in 1991 leaves the United States as the world's sole remaining superpower. In addition, the dependence of the Western Powers on the United States marks the end of Great Britain's status as the chief superpower of the world.`
             }
         ]
     },
@@ -163,7 +163,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `On September 11, 2001, terrorists from Al-Qaeda hijack planes and fly them into the World Trade Center, the Pentagon, and a field in Pennsylvania. The attacks kill nearly 3,000 people and lead to the United States and its allies entering wars in Afghanistan and Iraq.`
             }
         ]
     },
@@ -177,7 +177,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Britain votes by a narrow margin to leave the European Union. Although the process has not been completed as of the time of writing, this represents a surge in nationalism during the 21st century unseen since the end of World War II.`
             }
         ]
     },
