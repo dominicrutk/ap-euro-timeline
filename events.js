@@ -191,7 +191,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Isabella I of Castile and Ferdinand II of Aragon get married. This prompts the unification of Castile and Aragon into Spain under the rule of their son, Charles I of Spain (also known as Charles V of the Holy Roman Empire).`
             }
         ]
     },
@@ -205,7 +205,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `English Civil War thinker Thomas Hobbes publishes his seminal work, the Leviathan. It is the first major work on social contract theory. It describes how the rulers get their power from the consent of the governed. However, Hobbes' take on social contract theory claims that one powerful ruler is necessary to have a secure state.`
             }
         ]
     },
@@ -219,7 +219,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `William of Orange peacefully overthrows the English monarch, James II of England, with the support of Parliament. He becomes William III of England and gives more power to the aristocracy.`
             }
         ]
     },
@@ -233,7 +233,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Louis XIV of France builds his majestic palace, Versailles, on the outskirts of Paris. The palace represents his absolutist rule.`
             }
         ]
     },
@@ -247,7 +247,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Louis XIV repeals the Edict of Nantes with the Edict of Fontainebleau. Huguenots flee France, but there is a stronger sense of political unity.`
             }
         ]
     },
@@ -261,7 +261,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Rulers such as Frederick II of Prussia, Joseph II of Austria, and Catherine II of Russia, collectively known as "Enlightened Despots", rule as absolutists, but spread some Enlightened ideals to their respective countries. For instance, Frederick the Great used merit rather than birth as a basis for awarding jobs.`
             }
         ]
     },
@@ -275,7 +275,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Under the leadership of the House of Hohenzollern, various German territories are united as the Kingdom of Prussia.`
             }
         ]
     },
@@ -289,7 +289,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `After the death of Charles II of Spain, the Habsburg and Bourbon dynasties fight for control of the Spanish empire. Philip V (a Bourbon), eventually takes the throne and renounces his place in the French line of succession.`
             }
         ]
     },
@@ -303,7 +303,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Much like the construction of Versailles did for France, the creation of St. Petersburg represents the absolutism practiced by Peter the Great of Russia.`
             }
         ]
     },
@@ -317,7 +317,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Led by the Kingdom of Piedmont-Sardinia and with the support of the French, the Italian states are unified into monarchy under the King of Piedmont, Victor Emmanuel II.`
             }
         ]
     },
@@ -331,7 +331,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Under the leadership of Otto von Bismarck, Prussia wins the Austro-Prussian and Franco-Prussian wars. Bismarck unites most ethnic Germans, excluding Austrians, under one umbrella using the Kleindeutschland (smaller Germany) plan.`
             }
         ]
     },
@@ -345,7 +345,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `After the destruction of World War II, the European states attempt to integrate their politics and economies tightly so that another large war is unfathomable.`
             }
         ]
     },
