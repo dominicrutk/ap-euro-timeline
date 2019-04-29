@@ -877,7 +877,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Martin Luther nails his 95 Theses to the local Church door. They outline his complaints with the Church- namely corruption in the form of the sale of indulgences.`
             }
         ]
     },
@@ -891,7 +891,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Charles V of the Holy Roman Empire conquers Rome, ending the Renaissance.`
             }
         ]
     },
@@ -905,7 +905,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Parliament passes the Act of Supremacy, making Henry VIII the head of the Church of England.`
             }
         ]
     },
@@ -919,7 +919,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `John Calvin publishes Institutes of the Christian Religion, outlining his belief in divine predestination and the "elect."`
             }
         ]
     },
@@ -933,7 +933,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Charles V of the Holy Roman Empire enacts the Peace of Augsburg which allows each noble to choose Lutheranism or Catholicism as the official religion of his domain.`
             }
         ]
     },
@@ -947,7 +947,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Henry IV of France signs the Edict of Nantes, giving Huguenots some rights.`
             }
         ]
     },
@@ -961,7 +961,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Church condemns Galileo for his work contradicting the Bible.`
             }
         ]
     },
@@ -975,7 +975,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Thirty Years' War ends with more religious tolerance of Protestants, including Calvinists this time.`
             }
         ]
     },
@@ -989,7 +989,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Charles Darwin publishes On the Origin of Species outlining evolution and striking a tough blow to the Church's myth of intelligent design.`
             }
         ]
     },
