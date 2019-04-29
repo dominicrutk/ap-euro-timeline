@@ -723,7 +723,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Women begin to learn to read as Luther calls for each individual reading the Bible for themself.`
             }
         ]
     },
@@ -737,7 +737,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Margaret Cavendish publishes Observations Upon Experimental Philosophy. At the time, women are mostly excluded from the scientific pursuits.`
             }
         ]
     },
@@ -751,7 +751,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Émilie du Châtelet helps to spread Newton's work by translating Principia Mathematica into French.`
             }
         ]
     },
@@ -765,7 +765,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Olympe de Gouges publishes Declaration of the Rights of Woman, a feminist version of Declaration of the Rights of Man and Citizen. She is later executed during the Reign of Terror.`
             }
         ]
     },
@@ -779,7 +779,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `As the Industrial Revolution causes factories to grow, women begin to enter factories, especially in the textile industry.`
             }
         ]
     },
@@ -793,7 +793,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Women make significant strides in legal and property rights. The Married Women's Property Act gives them the ability to keep property through marriage.`
             }
         ]
     },
@@ -807,7 +807,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Women get the right to vote in England.`
             }
         ]
     },
