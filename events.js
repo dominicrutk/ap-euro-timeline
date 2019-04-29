@@ -583,7 +583,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Spanish explorer Christopher Columbus lands in the New World, setting off a wave of exploration and mercantile empires.`
             }
         ]
     },
@@ -597,7 +597,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Europe sells weapons to Africa, which sells slaves to the Americas, which sell raw materials back to Europe.`
             }
         ]
     },
@@ -611,7 +611,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The unregulated Dutch economy is incredibly prosperous until other countries catch up to their shipbuilding techniques and capitalist policies during the Industrial Revolution.`
             }
         ]
     },
@@ -625,7 +625,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `New technologies and methods are developed that allow for more food production. This allows the population to expand rapidly.`
             }
         ]
     },
@@ -639,7 +639,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Treaty of Utrecht bankrupts the Dutch, allowing Great Britain to surpass them in overseas trade.`
             }
         ]
     },
@@ -653,7 +653,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The consolidation of land among the wealthy elite increases investment into agriculture, thus growing the food supply and the population.`
             }
         ]
     },
@@ -667,7 +667,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The invention of the steam engine allows the textile industry to take off. The rapid growth of factories creates jobs and increases the wealth of the populace. Consumer goods become commonplace.`
             }
         ]
     },
@@ -681,7 +681,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Adam Smith publishes his famous work, The Wealth of Nations. It describes how removing trade barriers and deregulating the economy promotes wealth, which is the sum of the wealth of citizens, not the wealth of the government.`
             }
         ]
     },
@@ -695,7 +695,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Karl Marx and Friedrich Engels publish their manifesto on communism. It outlines class conflict between the proletariat (the working class- factory workers) and the bourgeoisie (the middle class- factory owners). It says eventually, the proletariat will rise up against the bourgeoisie in a communist revolution.`
             }
         ]
     },
@@ -709,7 +709,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Alexander II of Russia abolishes serfdom saying, "better to abolish serfdom from above than to wait till it begins to abolish itself from below."`
             }
         ]
     },
