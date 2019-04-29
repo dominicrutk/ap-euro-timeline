@@ -1003,7 +1003,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Johannes Gutenberg invents the printing press, which allows for the rapid dissemination of information from anyone who can afford one.`
             }
         ]
     },
@@ -1017,7 +1017,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Copernicus publishes his seminal work, pointing out the flaws in the geocentric model of the universe and arguing for a heliocentric model.`
             }
         ]
     },
@@ -1031,21 +1031,21 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Francis Bacon publishes his most famous work, which describes induction as a method of learning.`
             }
         ]
     },
-    starryMessenger: {
-        name: 'Starry Messenger',
-        startYear: 1610,
-        endYear: 1610,
+    dialogueConcerningTwoChiefWorldSystems: {
+        name: 'Dialogue Concerning the Two Chief World Systems',
+        startYear: 1632,
+        endYear: 1632,
         latitude: 43.7226,
         longitude: 10.4019,
         category: 'cultural-intellectual innovation',
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Galileo publishes his seminal work, Dialogue Concerning the Two Chief World Systems. In it, he compares the heliocentric and geocentric models of the universe. He argues in favor of the heliocentric model.`
             }
         ]
     },
@@ -1059,7 +1059,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `René Descartes publishes his most popular work, which outlines deduction as a method of learning. He says, "I think, therefore I am."`
             }
         ]
     },
@@ -1073,7 +1073,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Newton publishes his research on gravity in Principia Mathematica. He is at the time thought to have solved all of physics.`
             }
         ]
     },
@@ -1087,7 +1087,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Denis Diderot attempts to document all of human knowledge in the Encyclopedia.`
             }
         ]
     },
@@ -1101,12 +1101,12 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Sigmund Freud publishes his theory on psychoanalysis and creates the modern field of psychology.`
             }
         ]
     },
-    creationOfTheInternet: {
-        name: 'Creation of the Internet',
+    creationOfTheWorldWideWeb: {
+        name: 'Creation of the World Wide Web',
         startYear: 1983,
         endYear: 1983,
         latitude: 51.5072,
@@ -1115,7 +1115,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The World Wide Web is invented by Tim Berners-Lee. It is used a rapid method by which to communicate with others across the globe and spread information quickly.`
             }
         ]
     }
