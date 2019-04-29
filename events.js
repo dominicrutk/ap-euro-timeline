@@ -499,7 +499,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Thousands of peasants across the Holy Roman Empire rise up in revolt against their masters. Martin Luther sides with the aristocracy, who he needs for protection from the Holy Roman Emperor.`
             }
         ]
     },
@@ -513,7 +513,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Parisian middle class rises up against the nobility and the monarchy because of their lack of privileges, despite their wealth. They topple the Old Regime and establish a republic. Shortly after the revolution, Napoleon Bonaparte becomes a dictator. His rule and conquest of Europe leads to the Congress of Vienna.`
             }
         ]
     },
@@ -527,7 +527,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Treaty of Versailles ends World War I. It puts all the blame on Germany and forces it to pay reparations for the war. This sends Germany into an economic crisis which leads to Hitler's rise to power and World War II.`
             }
         ]
     },
@@ -541,7 +541,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The German currency experiences hyperinflation which leads to mass poverty and starvation. The German economy is in shambles, which allows Hitler to rise to power.`
             }
         ]
     },
@@ -555,7 +555,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Hitler and the Nazi Regime persecute Jews, Roma, disabled people, black people, and more. The persecution results in the systematic killing of over 6,000,000 people.`
             }
         ]
     },
@@ -569,7 +569,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The remaining powers, especially Great Britain, give up their overseas empires after the end of World War II.`
             }
         ]
     },
