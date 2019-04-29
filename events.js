@@ -359,7 +359,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Charles I of England is executed and England is ruled as a republic under the leadership of Oliver Cromwell.`
             }
         ]
     },
@@ -373,7 +373,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `John Locke publishes his take on social contract theory. He claims that rulers need the consent of the governed to get power and that people have natural rights.`
             }
         ]
     },
@@ -387,7 +387,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Montesquieu publishes his seminal work, The Spirit of Laws. It details why a republic is the best form of government.`
             }
         ]
     },
@@ -401,7 +401,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Jean-Jacques Rousseau publishes his book on social contract theory. It describes how a ruler must have the consent of the governed and how laws should be based on the "general will". That is, the consensus of the rational people. The book is part of the inspiration for the French Revolution.`
             }
         ]
     },
@@ -415,7 +415,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `After the British impose harsh taxes on the Americans to pay for the Seven Years' War, the Americans rebel and become independent. This inspires the French Revolution, and America eventually becomes to a powerful Western ally.`
             }
         ]
     },
@@ -429,7 +429,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Third Estate (the people) becomes more powerful than the First (the Church) and the Second (the aristocracy). This leads to meaningful change like the Declaration of the Rights of Man and Citizen.`
             }
         ]
     },
@@ -443,7 +443,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Moderate liberal ideals like equity and freedom are recorded in a document that becomes one of the goals of the French Revolution. The Declaration of the Rights of Man and Citizen inspires the ideals in the Declaration of Independence.`
             }
         ]
     },
@@ -457,7 +457,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `France establishes one of the first true republics in the world.`
             }
         ]
     },
@@ -471,7 +471,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Latin American states break free of Spanish and Portuguese rule.`
             }
         ]
     },
@@ -485,7 +485,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Nationalist movements all over Europe rise up in revolution. Although most of them fail, this is typically seen as the end of the Concert of Europe because the great powers think they have beaten revolution, so they go back to fighting each other.`
             }
         ]
     },
