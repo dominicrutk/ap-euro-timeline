@@ -821,7 +821,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `The Catholic Church meets to find a way to counter the Protestant Reformation. The Church renounces the corruption within, but maintains that its doctrine is correct. The Counter Reformation begins at this point, and is actually quite successful.`
             }
         ]
     },
@@ -835,7 +835,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Accompanying the Counter Reformation, Catholic Baroque art highlights mythical scenes from the Bible.`
             }
         ]
     },
@@ -849,7 +849,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `After the rationality of the Enlightenment and the belief that humans can conquer nature, Romantic Art places an emphasis on nature's supreme power over mankind.`
             }
         ]
     },
@@ -863,7 +863,7 @@ const events = {
         description: [
             {
                 type: 'p',
-                text: ``
+                text: `Impressionist Art emphasizes experiences and sensation instead of capturing minor details of a scene.`
             }
         ]
     },
